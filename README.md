@@ -1,9 +1,3 @@
-Claro, vamos refinar a mensagem de anúncio e depois detalhar a implementação do sistema de fotos, que é uma excelente adição para a imersão.
-
-Mensagem de Atualização para a Comunidade MRI
-Aqui está uma versão aprimorada do anúncio, com um tom mais alinhado a uma comunidade de desenvolvimento e focada nos "porquês" das mudanças.
-
-🚀 Atualização de Framework no MRI: Interatividade e Roleplay Aprimorados! 🚀
 Olá, comunidade MRI!
 
 Temos o prazer de anunciar uma atualização importante no qbx_core, projetada para substituir sistemas automáticos por mecânicas que incentivam e dependem da interação direta entre os jogadores. O objetivo é claro: fortalecer o roleplay e dar mais poder e propósito às ações dentro do jogo.
