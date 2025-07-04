@@ -1,0 +1,1 @@
+ALTER TABLE `players` ADD `has_identity` BOOLEAN NOT NULL DEFAULT FALSE;
